@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Projeto LH Pets - SENAI\obj\Debug\net8.0\Projeto LH Pets - SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projeto LH Pets - SENAI\obj\Debug\net8.0\Projeto LH Pets - SENAI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projeto LH Pets - SENAI\obj\Debug\net8.0\Projeto LH Pets - SENAI.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projeto LH Pets - SENAI\obj\Debug\net8.0\Projeto LH Pets - SENAI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projeto LH Pets - SENAI\obj\Debug\net8.0\Projeto LH Pets - SENAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Projeto LH Pets - SENAI\obj\Debug\net8.0\Projeto LH Pets - SENAI.csproj.AssemblyReference.cache
